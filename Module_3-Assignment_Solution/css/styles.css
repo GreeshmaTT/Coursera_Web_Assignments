@@ -101,6 +101,10 @@ body {
 
 /********** Small devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
+  
+  .container{
+  width: 80%;
+}
 }
 
 /********** Extra small devices only **********/
@@ -150,7 +154,9 @@ body {
 .navbar-toggle{
   margin-bottom: 15px;
 }
-
+.container{
+  width: 80%;
+}
 }
 
 
